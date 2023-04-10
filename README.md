@@ -1,3 +1,2 @@
 # Data-Science-Yandex-Praktikum
-Projects completed during my Yandex praktikum educational program
-
+Проекты выполненные в течение обучения в Яндексе
