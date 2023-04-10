@@ -19,4 +19,5 @@
 
 ## Используемые библиотеки
 
-**pandas, sklearn, numpy, matplotlib, phik, seaborn, CatBoost**
+**pandas, sklearn, numpy, обработка данных, histogram, boxplot, статистический тест,
+критерий Стьюдента**
