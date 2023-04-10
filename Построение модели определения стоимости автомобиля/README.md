@@ -9,4 +9,4 @@
 В наличии были данные заказчика об автомобилях: их технические характеристики, комплектации и цены.
 ## Используемые библиотеки
 
-**pandas, sklearn, numpy, LightGBM**
+**pandas, sklearn, numpy, RandomForestRegressor, LinearRegression, LightGBM**
