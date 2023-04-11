@@ -10,4 +10,4 @@
 
 ## Используемые библиотеки
 
-**pandas, sklearn, numpy, statsmodels, LinearRegression, RandomForestRegressor, LightGBM **
+**pandas, sklearn, numpy, statsmodels, LinearRegression, RandomForestRegressor, LightGBM**
