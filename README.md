@@ -2,11 +2,12 @@
 <a href="https://praktikum.yandex.ru/"><img width=100% src="https://miro.medium.com/max/1400/0*uVP0WwEWOtpHs40E.png"></a><br><br>
 <p align=center>
 
-<center> Проекты выполненные в течение обучения в Яндекс.Практикуме </center> 
+                                              Проекты выполненные в течение обучения в Яндекс.Практикуме 
 
-<br>
-  <center> <a href="https://github.com/Norlet/Data-Science-Yandex-Praktikum/blob/main/Yandex%20English%20Certificate.pdf"><b> Certificate of completion the course (English version)</b> :mortar_board: </a><br>
-    <a href="https://github.com/Norlet/Data-Science-Yandex-Praktikum/blob/main/Yandex%20Russian%20Certificate.pdf"><b> Сертификат о прохождении программы обучения (Russian version)</b> :mortar_board: </a> </center>
+
+  <br>
+  <a href="https://github.com/Norlet/Data-Science-Yandex-Praktikum/blob/main/Yandex%20English%20Certificate.pdf"><b> Certificate of completion the course (English version)</b> :mortar_board: </a><br>
+    <a href="https://github.com/Norlet/Data-Science-Yandex-Praktikum/blob/main/Yandex%20Russian%20Certificate.pdf"><b> Сертификат о прохождении программы обучения (Russian version)</b> :mortar_board: </a>
 </p><br>
 
 | Проект | Описание | 
