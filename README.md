@@ -1,7 +1,15 @@
-# Data-Science-Yandex-Praktikum
-Проекты выполненные в течение обучения в Яндексе
+Yandex Praktikum Data Science Projects
 
+<center><h1>Yandex.Praktikum Data Science Projects</h1></center>
+<a href="https://praktikum.yandex.ru/"><img width=100% src="https://miro.medium.com/max/1400/0*uVP0WwEWOtpHs40E.png"></a><br><br>
+<p align=center>
 
+Проекты выполненные в течение обучения в Яндекс.Практикуме 
+
+<br>
+  <a href="https://github.com/Norlet/Data-Science-Yandex-Praktikum/blob/main/Yandex%20English%20Certificate.pdf"><b> Certificate of completion the course (English version)</b> :mortar_board: </a><br>
+    <a href="https://github.com/Norlet/Data-Science-Yandex-Praktikum/blob/main/Yandex%20Russian%20Certificate.pdf"><b> Сертификат о прохождении программы обучения (Russian version)</b> :mortar_board: </a>
+</p><br>
 
 | Проект | Описание | 
 | :-------| :-----------|
