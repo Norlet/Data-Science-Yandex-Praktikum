@@ -2,7 +2,7 @@
 <a href="https://praktikum.yandex.ru/"><img width=100% src="https://miro.medium.com/max/1400/0*uVP0WwEWOtpHs40E.png"></a><br><br>
 <p align=center>
 
-                                Проекты выполненные в течение обучения в Яндекс.Практикуме 
+                                       Проекты выполненные в течение обучения в Яндекс.Практикуме 
 
 
   <br>
